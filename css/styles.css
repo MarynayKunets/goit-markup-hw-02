@@ -83,6 +83,8 @@ a {
   color: var(--cloud);
 }
 
+/* Кнопки */
+
 button {
   cursor: pointer;
 }
@@ -100,6 +102,8 @@ button {
 }
 
 .hero-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
   font-weight: 500;
   background-color: #4d5ae5;
   line-height: 1.5;
@@ -124,6 +128,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .team-section {
